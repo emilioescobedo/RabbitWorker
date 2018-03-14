@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitWorker", "RabbitWorker.csproj", "{6B73083C-FD54-4357-9AF5-9367196BDD39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B73083C-FD54-4357-9AF5-9367196BDD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B73083C-FD54-4357-9AF5-9367196BDD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B73083C-FD54-4357-9AF5-9367196BDD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B73083C-FD54-4357-9AF5-9367196BDD39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E59554-B97E-4579-A2E2-A2F659891A32}
+	EndGlobalSection
+EndGlobal
